@@ -1,3 +1,6 @@
+# Deprecated use:
+https://github.com/microsoft/azure-devops-mcp
+
 # Azure DevOps MCP
 MCP server for Azure DevOps
 
